@@ -1,1 +1,1 @@
-First devops readme
+This repo contains solutions for shell basics
